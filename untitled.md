@@ -1,1 +1,1 @@
-_Oh, an empty article!_ You can get started by **double clicking** this text block and begin editing. You can also click the **Insert** button below to add new block elements. Or you can **drag and drop an image** right onto this text!
+What the devil. Just pretend you are a whisper floating across a mountain. We can always carry this a step further. There's really no end to this. Paint anything you want on the canvas. Create your own world. With something so strong, a little bit can go a long way. All you have to do is let your imagination go wild.
