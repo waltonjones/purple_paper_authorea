@@ -1,4 +1,7 @@
-Have fun with it. The more we do this - the more it will do good things to our heart. A tree cannot be straight if it has a crooked trunk. You can work and carry-on and put lots of little happy things in here. Just think about these things in your mind and drop em' on canvas. You can't have light without dark. You can't know happiness unless you've known sorrow.
+## Introduction
+
+Have fun with it. The more we do this - the more it will do good things to our heart. A tree cannot
+be straight if it has a crooked trunk. You can work and carry-on and put lots of little happy things in here. Just think about these things in your mind and drop em' on canvas. You can't have light without dark. You can't know happiness unless you've known sorrow.
 
 I'm a water fanatic. I love water. Let's go up in here, and start having some fun Here we're limited by the time we have. This is your creation - and it's just as unique and special as you are.
 
