@@ -11,3 +11,4 @@ figures/Fig_S2/Fig_S2.jpg
 figures/Fig_S3/Fig_S3.jpg
 figures/Fig_S4/Fig_S4.jpg
 Methods__.md
+Fly_strains_Flies_were_kept__.md
