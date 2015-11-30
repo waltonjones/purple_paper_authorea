@@ -13,3 +13,4 @@ figures/Fig_S2/Fig_S2.jpg
 figures/Fig_S3/Fig_S3.jpg
 figures/Fig_S4/Fig_S4.jpg
 figures/Fig_S5/Fig_S5.jpg
+figures/Fig_S6/Fig_S6.jpg
