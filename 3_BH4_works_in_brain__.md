@@ -1,4 +1,4 @@
-3. BH4 works in brain, not in fat body for feeding
+BH4 works in brain, not in fat body for feeding
 
 The terminal reaction in the biosynthesis of BH4 requires Sepiapterin Reductase, which is generated from gene Sptr (Figure 2A). We investigated ad lib feeding of Sptr mutant flies. As expected, Sptr mutants also showed hyperphagia, which is rescuable by BH4 pre-feeding (Figure 3A). We hypothesized that pr over-expression on fat body may not rescue hyperphagia of Sptr mutant because Sptr is downstream of pr in the process of BH4 biosynthesis. Consistent with our hypothesis, adult specific over-expression of pr on fat body does not reduce feeding amount when the flies have Sptr mutant background, even though same pr over-expression showed decreased feeding in normal condition (Figure 3B and S3A). 
 
