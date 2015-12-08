@@ -1,6 +1,5 @@
 Summary.md
 introduction.md
-Appetite_behavior_is_critical_to__.md
 Result__.md
 results.md
 figures/Fig_1/Fig_1.jpg
