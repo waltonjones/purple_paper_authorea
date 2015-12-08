@@ -1,6 +1,4 @@
-Result
-
-2. Gene pr involves in feeding through BH4
+Gene pr involves in feeding through BH4
 
 To confirm the function of pr in appetitie behavior, we test two pr mutant lines and found they also showed increased feeding phenotype (Figure 2B). Since pr mutants also showed hyperphagia, so asked whether the expression of pr on fat body could rescue the phenotype. Flies express pr by fat body driver r4-Ga4 under the pr mutant background showed significantly decreased feeding compare to other pr mutant controls (Figure 2D). The over-expression of pr without pr mutant background caused anorexic phenotype, suggesting that pr expression on fat body is critical for appetite regulation. 
 
