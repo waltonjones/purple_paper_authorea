@@ -1,6 +1,6 @@
 Summary.md
 introduction.md
-Result_1_Genome_wide_miRNA__.md
+r_miRNA.md
 Result_2_Gene_pr_involves__1.md
 results.md
 figures/Fig_1/Fig_1.jpg
