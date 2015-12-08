@@ -1,6 +1,6 @@
 Summary.md
 introduction.md
-r_miRNA.md
+R1_miRNA.md
 R2_pr_BH4.md
 results.md
 figures/Fig_1/Fig_1.jpg
