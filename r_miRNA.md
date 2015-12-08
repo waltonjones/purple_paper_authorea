@@ -1,5 +1,5 @@
-**Result**
-##1. Genome-wide miRNA screening in fat body
+
+Genome-wide miRNA screening in fat body
 
 To identify novel genes in appetite regulation from fat body, we used two-step screening method (Figure 1A). For primary screening, we performed miRNA-based overexpression screen using fat body specific gene-switch driver S1106-Gal4 crossed to the library of 141 UAS-miRNA lines that generated in our lab (Suh et al., 2015). Since S1106-Gal4 is RU486 inducible gene-switch driver, we were able to overexpress miRNA only in adult stage by feeding RU486. For the measurement of changes in appetite behavior, we used modified capillary feeder (CAFE) assay (Ja et al., 2007) with 24hr habituation followed by 32hr measurement (Figure 1B). From miRNA screening, we found that overexpression of miR-iab-4 in fat body increases ad lib feeding (Figure 1C). Two different fat body specific drivers, S1106-Gal4 and r4-Gal4 (Lee & Park, 2004), both showed increased feeding, which confirm the importance of miR-iab-4 in fat body for appetite regulation (Figure 1D and 1E).
 
