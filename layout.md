@@ -3,7 +3,7 @@ introduction.md
 R1_miRNA.md
 R2_pr_BH4.md
 R3_Sptr_Brain.md
-R4_NPF.md
+R4_Sptr_NPF.md
 results.md
 figures/Fig_1/Fig_1.jpg
 figures/Fig_2/Fig_2.jpg
