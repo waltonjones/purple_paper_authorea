@@ -1,7 +1,7 @@
 Summary.md
 introduction.md
 r_miRNA.md
-Result_2_Gene_pr_involves__1.md
+R2_pr_BH4.md
 results.md
 figures/Fig_1/Fig_1.jpg
 figures/Fig_2/Fig_2.jpg
