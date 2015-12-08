@@ -1,4 +1,4 @@
-5. BH4 regulates feeding by inhibiting NPF release 
+BH4 regulates feeding by inhibiting NPF release 
 
 NPF neuron is known to involved in sweet taste sensation (Inagaki et al., 2014). To investigate whether NPF signaling is the target of BH4 action for the control of feeding, we knockdown NPF gene in NPF neuron and test the changes of appetite behavior. We observed that NPF knockdown shows decreased feeding (Figure 5A). The result was consistent with the appetite behavior of NPF receptor mutant files (Figure 5B). 
 (Hypothetical)To confirm that the involvement of NPF signal in BH4 action, we knockdown Sptr gene on NPF neuron under NPFR mutant background. When NPF signal is impaired by receptor mutantion, Sptr knockdown does not induce hyperphagia, suggesting that NPF is the target of BH4. 
