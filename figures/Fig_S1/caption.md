@@ -1,1 +1,1 @@
-Fig S1 
+Figure S1 
