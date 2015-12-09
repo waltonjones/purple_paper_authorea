@@ -7,7 +7,6 @@ R4_Sptr_NPF.md
 R5_NPF_release.md
 results.md
 figures/Fig_1/Fig_1.jpg
-Fig_1_Legend.md
 figures/Fig_2/Fig_2.jpg
 figures/Fig_3/Fig_3.jpg
 figures/Fig_4/Fig_4.jpg
