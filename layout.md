@@ -5,7 +5,7 @@ R2_pr_BH4.md
 R3_Sptr_Brain.md
 R4_Sptr_NPF.md
 R5_NPF_release.md
-Discussion__.md
+Discussion.md
 figures/Fig_1/Fig_1.jpg
 Fig_1_Legend.md
 figures/Fig_2/Fig_2.jpg
