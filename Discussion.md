@@ -10,4 +10,4 @@ Gene purple is named after purplish eye color of its mutant, because pr is highl
 
 Drosophila NPF, homolog of mammalian NPY, is known to involve in feeding \cite{Wu_2003,Inagaki_2014}. We found that NPF neurons receive information from fat body and change ad lib appetite behavior. Interestingly, NPF release is inhibited after high amount of BH4 feeding, which is unexpected because known function of BH4 is cofactor. It is possible that BH4 may have inhibitory function in NPF neurons, or BH4 stimulates production of other unknown hormone, which inhibits NPF release. Detailed mechanism of BH4 in NPF neuron remains to be known.
 
-In conclusion, our data illustrate that feeding behavior can be affected by body fat. It may shed light on mechanism underlying regulation of body weight by changes in feeding behavior.
+In conclusion, our data illustrates that NPF regulates feeding behavior according to BH4, which is remotely regulated by body fat. It may shed light on mechanism underlying regulation of feeding behavior by changes in body weight.
