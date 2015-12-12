@@ -17,7 +17,7 @@ fly_stocks.md
 figures/Fig_S1/Fig_S1.jpg
 Fig_S1_Legend.md
 figures/Fig_S2/Fig_S2.jpg
-Fig_S2_Legend__.md
+Fig_S3_Legend.md
 figures/Fig_S3/Fig_S3.jpg
 figures/Fig_S4/Fig_S4.jpg
 figures/Fig_S5/Fig_S5.jpg
