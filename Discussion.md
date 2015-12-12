@@ -1,4 +1,4 @@
-****Discussion
+Discussion
 
 We used a combination of miR overexpression and RNAi screening to elucidate novel appetite-related genes from fat body. This screening tool was quite efficient to search novel gene function rather than testing all of individual genes. From our screening and following studies, we identified eating-control functions of pr and its biochemical product BH4.
 
