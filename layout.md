@@ -15,7 +15,7 @@ Fig_3_legend.md
 figures/Fig_4/Fig_4.jpg
 Fig_4_legend.md
 figures/Fig_5/Fig_5.jpg
-Fig_5_legend__.md
+Fig_5_legend.md
 methods.md
 fly_stocks.md
 figures/Fig_S1/Fig_S1.jpg
