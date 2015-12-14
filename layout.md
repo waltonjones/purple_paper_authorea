@@ -13,6 +13,7 @@ Fig 2_Legend.md
 figures/Fig_3/Fig_3.jpg
 Fig_3_legend.md
 figures/Fig_4/Fig_4.jpg
+Fig_4_legend__.md
 figures/Fig_5/Fig_5.jpg
 methods.md
 fly_stocks.md
