@@ -1,2 +1,2 @@
 Fig 3 Sptr expression in brain, not in fat body, is required to regulate appetite behavior
-(A) Sptr mutants show increased feeding (n = 20-26)
+(A) Sptr mutants show increased feeding (n = 20-26). (B) Decreased feeding by fat body specific pr overexpression disappears under Sptr mutant background (n = 27). (C) Sptr knockdown in fat body does not show increased feeding phenotype (n = 20-29). (D) Pan-neuronal Sptr knockdown shows increased feeding (n = 27-28). (E) Sptr knockdown in peptidergic neurons shows increased feeding (n = 23-25). (F) Pan-neuronal pr knockdown does not show increased feeding (n = 25-26)
