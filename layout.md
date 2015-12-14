@@ -11,7 +11,7 @@ Fig_1_Legend.md
 figures/Fig_2/Fig_2.jpg
 Fig 2_Legend.md
 figures/Fig_3/Fig_3.jpg
-Fig_3_legend__.md
+Fig_3_legend.md
 figures/Fig_4/Fig_4.jpg
 figures/Fig_5/Fig_5.jpg
 methods.md
