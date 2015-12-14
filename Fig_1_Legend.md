@@ -1,3 +1,3 @@
-Fig 1 Legend
+Figure 1 Genome-wide miRNA screening in fat body reveals novel function of gene purple in feeding behavior 
 
 MiRNA screening reveals that purple expression in fat body is critical for appetite control (A) Flowchart explaining screening process. (B) Schematic diagram of modified CAFE assay. (C) Summary of miRNA overexpression screening. Gray dots represent each UAS-miR lines tested.See Suh 2015 for the line information. (D) and (E) Increased feeding from fat body specific miR-iab-4 overexpression using S1106-Gal4 (D, n = 11-20) and r4-Gal4 (E, n= ). Gray dots represent each CAFE data. (F) and (G) Increased feeding from fat body specific purple knockdown in entire stage (F, n=25-38) or only in adult (G, n=30).
