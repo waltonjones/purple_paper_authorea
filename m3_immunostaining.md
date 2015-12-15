@@ -1,0 +1,3 @@
+### Immunohistochemistry and intensity measurement
+
+Dissection and staining followed normal staining method in Vosshall lab (http://vosshall.rockefeller.edu/protocols/StockerFlyProt.pdf). Primary NPF antibody (0.05μg/μl, RayBiotech: RB-19-001) and secondary goat anti-rabbit antibody (1:1000, Life technologies: Alexa Fluor 488) were used. LSM780 high sensitivity laser scanning confocal microscope (Zeiss) with 20x objective (Olympus) was used to obtain confocal serial optical sections. For intensity measurement, each z-stack confocal pictures were opened in Image J and the intensity of each cell body was measured and calculated as 0(no staining) to 100(saturation). After then, the average intensity of each experimental group was calculated.

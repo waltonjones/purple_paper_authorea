@@ -11,8 +11,14 @@ figures/Fig_2/Fig_2.jpg
 figures/Fig_3/Fig_3.jpg
 figures/Fig_4/Fig_4.jpg
 figures/Fig_5/Fig_5.jpg
-methods.md
-fly_stocks.md
+m1_fly_stocks.md
+m2_feeding_assays.md
+m3_immunostaining.md
+m4_qPCR.md
+m5_starvation_resistance.md
+m6_TAG.md
+m7_respiration.md
+m8_statistics.md
 figures/Fig_S1/Fig_S1.jpg
 figures/Fig_S2/Fig_S2.jpg
 figures/Fig_S3/Fig_S3.jpg
