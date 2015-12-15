@@ -1,5 +1,5 @@
-Summary.md
-introduction.md
+0_abstract.md
+1_introduction.md
 R1_miRNA.md
 R2_pr_BH4.md
 R3_Sptr_Brain.md
@@ -7,22 +7,15 @@ R4_Sptr_NPF.md
 R5_NPF_release.md
 Discussion.md
 figures/Fig_1/Fig_1.jpg
-Fig_1_Legend.md
 figures/Fig_2/Fig_2.jpg
-Fig 2_Legend.md
 figures/Fig_3/Fig_3.jpg
-Fig_3_legend.md
 figures/Fig_4/Fig_4.jpg
-Fig_4_legend.md
 figures/Fig_5/Fig_5.jpg
-Fig_5_legend.md
 methods.md
 fly_stocks.md
 figures/Fig_S1/Fig_S1.jpg
-Fig_S1_Legend.md
 figures/Fig_S2/Fig_S2.jpg
 figures/Fig_S3/Fig_S3.jpg
-Fig_S3_Legend.md
 figures/Fig_S4/Fig_S4.jpg
 figures/Fig_S5/Fig_S5.jpg
 figures/Fig_S6/Fig_S6.jpg
