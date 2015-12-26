@@ -2,6 +2,7 @@
 1_introduction.md
 2_r1_miRNA_screen.md
 figures/Fig_1/Fig_1.jpg
+figures/Fig1 20151224/Fig1 20151224.png
 2_r2_pr_BH4.md
 figures/Fig_2/Fig_2.jpg
 2_r3_sptr_brain.md
