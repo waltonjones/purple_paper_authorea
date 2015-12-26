@@ -8,6 +8,7 @@ figures/Fig_2/Fig_2.jpg
 figures/Fig2 20151224/Fig2 20151224.png
 2_r3_sptr_brain.md
 figures/Fig_3/Fig_3.jpg
+figures/Fig3 20151224/Fig3 20151224.png
 2_r4_sptr_NPF.md
 figures/Fig_4/Fig_4.jpg
 2_r5_NPF_release.md
