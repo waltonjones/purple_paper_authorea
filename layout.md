@@ -5,7 +5,6 @@ figures/Fig_1/Fig_1.jpg
 figures/Fig1 20151224/Fig1 20151224.png
 2_r2_pr_BH4.md
 figures/Fig_2/Fig_2.jpg
-figures/Fig2 20151224/Fig2 20151224.png
 2_r3_sptr_brain.md
 figures/Fig_3/Fig_3.jpg
 figures/Fig3 20151224/Fig3 20151224.png
