@@ -11,6 +11,7 @@ figures/Fig_3/Fig_3.jpg
 figures/Fig3 20151224/Fig3 20151224.png
 2_r4_sptr_NPF.md
 figures/Fig_4/Fig_4.jpg
+figures/Fig4 20151224/Fig4 20151224.png
 2_r5_NPF_release.md
 figures/Fig_5/Fig_5.jpg
 3_discussion.md
