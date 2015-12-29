@@ -1,15 +1,18 @@
 0_abstract.md
 1_introduction.md
-2_r1_miRNA_screen.md
+2_r1_screen-pr.md
 figures/Fig_1/Fig_1.jpg
+figures/Fig1 20151224/Fig1 20151224.png
 2_r2_pr_BH4.md
 figures/Fig_2/Fig_2.jpg
-2_r3_sptr_brain.md
+figures/Fig2 1/Fig2 1.png
+2_r3_sptr_NPF.md
 figures/Fig_3/Fig_3.jpg
-2_r4_sptr_NPF.md
+figures/Fig3 20151224/Fig3 20151224.png
 figures/Fig_4/Fig_4.jpg
-2_r5_NPF_release.md
+2_r4_NPF_release.md
 figures/Fig_5/Fig_5.jpg
+figures/Fig4 20151228/Fig4 20151228.png
 3_discussion.md
 4_m1_fly_stocks.md
 4_m2_feeding_assays.md
