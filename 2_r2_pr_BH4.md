@@ -1,6 +1,6 @@
-Gene pr involves in feeding through BH4
 
-To confirm the function of pr in appetitie behavior, we test two pr mutant lines and found they also showed increased feeding phenotype (Figure 2B). Since pr mutants also showed hyperphagia, we asked whether the expression of pr on fat body could rescue the phenotype. Without pr mutation, the over-expression of pr in fat body caused anorexic phenotype. When we express pr in fat body under the pr mutant background, flies showed significantly decreased feeding compare to other pr mutant controls (Figure 2D). These data suggests that pr expression on fat body is critical for appetite regulation. 
+
+
 
 To investigate the underneath mechanism of pr – related appetite regulation, we searched what gene product of pr is. Gene pr produces enzyme PTPS(6-pyruvoyltetrahydropterin synthease), which is required to synthesize cofactor BH4 (6R-L-erythro-5,6,7,8-tetrahydrobiopterin) (Figure 2A)\cite{TH_NY_2000}\cite{Werner_2011}. To explore functional correlation between pr and BH4, we monitored ad lib feeding of pr mutants after fed BH4-mixed sucrose solution for 24hours. When we measured ad lib feeding after fed low amount of BH4 (0.17mg/ml),surprisingly, feeding amount of pr mutant flies were decreased almost same as controls in normal condition. The amount of feeding in controls also decreased after BH4 feeding, but the degree was negligible. After fed high amount of BH4 (0.34mg/ml), all mutants and control flies showed decreased feeding and pr mutant flies consumed similarly low amount of sucrose as control (Figure 2E). Low amount of BH4 feeding also rescued hyperphagia of r4-Gal4>UAS-pr-IR1 flies (Figure 2F), supporting BH4 is involved in appetite regulation.
 
