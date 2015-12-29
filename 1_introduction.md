@@ -6,5 +6,5 @@ Fat body is core place for energy storage. But it recently found that fat body f
 
 Emerging multifunction of fat body lead us to investigate functionally unknown genes from Drosophila fat body related to appetite behavior. Drosophila is an excellent model system for studying the molecular mechanisms of appetite regulation that couples a quick development time and a diversity of genetic tools with underlying physiology and organ systems that are similar to humans \cite{Leopold_2007,Simpson_2015}. For efficient and precise search of functionally novel genes, we performed the investigation using genome-wide microRNA (miRNA) screening and secondary RNAi screening of miRNA target genes \cite{Suh_2015}. MiRNAs are endogenous noncoding RNAs that act as post-transcriptional regulators by inducing the degradation of their target mRNAs. Using Gal4/UAS binary expression system with a library of UAS-miRNA and fat body-specific Gal4 driver lines, we efficiently narrowed the number of potential target genes from whole genome down to less than a hundred. Following secondary RNAi screening for potential target genes of the miRNA, we identified novel functions of genes. 
 
- Here, we show novel function in appetite regulation of gene purple and its biochemical end-product tetrahydrobiopterin (BH4), which is conserved in fly and human. 
+
 
