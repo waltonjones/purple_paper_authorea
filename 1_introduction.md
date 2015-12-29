@@ -1,4 +1,3 @@
-## Introduction
 
 Appetite behavior is critical to maintain energy homeostasis and is tightly regulated by lots of physiological cues. Environmental cues, such as tastes, smells, and nutritional quality, affect animals to choose which food and how much food should be consumed. Internal cues, for instance hunger, satiety, circadian cycle, developmental stage, and memory, are also crucial for decision-making process to decide how much food should be taken \cite{Trivedi_2014,Itskov_2013}. Energy state - stored fat - is also important cue for animals to mange appetite behavior \cite{Ravussin_2014}. Awareness of energy state is critical for survival because the animal should be prepared for potential starvation but not to be sick from obesity-related diseases. 
 
