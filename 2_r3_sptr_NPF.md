@@ -8,4 +8,4 @@ To further confirm the location of Sptr expression, we expressed Sptr gene in NP
 
 When we test starvation resistance, NPF specific Sptr knockdown flies showed longer survival (Extended Data Fig. 5d). This suggests they accumulated more fat because they ate more. We tested knockdown of Dhfr, which is known to be involved in salvage pathway. But result wasn’t clear (Extended Data Fig. 5f), probably because it is not necessary for the BH4 synthesis. 
 
-Since we found that Sptr is expressed in NPF neurons for BH4 action on feeding, we express its upstream genes Pu and pr in NPF neurons and test if these can change feeding amount. Ectopic expression of the other two genes in NPF neurons decrease feeding amount , which is probably because of increased BH4 (Extended Data Fig. 5f). These changes in feeding was similar as in Sptr over-expression in NPF neuron (Extended Data Fig. 5g)
+
