@@ -13,6 +13,7 @@ figures/Fig_4/Fig_4.jpg
 2_r4_NPF_release.md
 figures/Fig_5/Fig_5.jpg
 figures/Fig4 20160102ai/Fig4 20160102ai.png
+Fig_4__.md
 3_discussion.md
 4_m1_fly_stocks.md
 4_m2_feeding_assays.md
