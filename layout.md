@@ -24,6 +24,7 @@ figures/Fig_5/Fig_5.jpg
 figures/Fig_S1/Fig_S1.jpg
 figures/Fig S1 20151224/Fig S1 20151224.png
 figures/Fig_S2/Fig_S2.jpg
+figures/FIgS2 20151229/FIgS2 20151229.png
 figures/Fig_S3/Fig_S3.jpg
 figures/Fig_S4/Fig_S4.jpg
 figures/Fig_S5/Fig_S5.jpg
