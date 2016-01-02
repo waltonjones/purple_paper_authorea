@@ -22,6 +22,7 @@ figures/Fig_5/Fig_5.jpg
 4_m7_respiration.md
 4_m8_statistics.md
 figures/Fig_S1/Fig_S1.jpg
+figures/Fig S1 20151224/Fig S1 20151224.png
 figures/Fig_S2/Fig_S2.jpg
 figures/Fig_S3/Fig_S3.jpg
 figures/Fig_S4/Fig_S4.jpg
