@@ -12,6 +12,7 @@ F2 Legend.md
 figures/Fig_4/Fig_4.jpg
 figures/Fig3 20151229/Fig3 20151229.png
 2_r4_NPF_release.md
+Fig_3_NPF_specific_Sptr__1.md
 figures/Fig_5/Fig_5.jpg
 figures/Fig4 20160102ai/Fig4 20160102ai.png
 F4 Legend.md
