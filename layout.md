@@ -2,7 +2,6 @@
 1_introduction.md
 2_r1_screen-pr.md
 figures/Fig_1/Fig_1.jpg
-figures/Fig1 20151224/Fig1 20151224.png
 2_r2_pr_BH4.md
 figures/Fig_2/Fig_2.jpg
 figures/Fig2 1/Fig2 1.png
