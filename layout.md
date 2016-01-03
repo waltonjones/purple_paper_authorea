@@ -21,7 +21,6 @@ F4 Legend.md
 4_m3_immunostaining.md
 4_m4_qPCR.md
 4_m5_starvation_resistance.md
-4_m7_respiration.md
 4_m8_statistics.md
 figures/Fig_S1/Fig_S1.jpg
 figures/Fig S1 20151229/Fig S1 20151229.png
