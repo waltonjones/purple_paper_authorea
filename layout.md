@@ -14,7 +14,7 @@ figures/Fig3 20151229/Fig3 20151229.png
 2_r4_NPF_release.md
 figures/Fig_5/Fig_5.jpg
 figures/Fig4 20160102ai/Fig4 20160102ai.png
-Fig_4_BH4_regulates_appetite__.md
+F4 Legend.md
 3_discussion.md
 4_m1_fly_stocks.md
 4_m2_feeding_assays.md
