@@ -17,7 +17,6 @@ figures/Fig_5/Fig_5.jpg
 figures/Fig4 20160102ai/Fig4 20160102ai.png
 F4 Legend.md
 3_discussion.md
-Extended_Data_Figure_2__.md
 4_m1_fly_stocks.md
 4_m2_feeding_assays.md
 4_m3_immunostaining.md
@@ -29,6 +28,7 @@ figures/Fig S1 20151229/Fig S1 20151229.png
 Extended_Data_Figure_1_Fat__.md
 figures/Fig_S2/Fig_S2.jpg
 figures/FIgS2 20151229/FIgS2 20151229.png
+Extended_Data_Figure_2__.md
 figures/Fig_S3/Fig_S3.jpg
 figures/Fig S3 20151229/Fig S3 20151229.png
 figures/Fig_S4/Fig_S4.jpg
