@@ -1,3 +1,3 @@
 Fig 3 NPF specific Sptr expression changes appetite behavior
 
-(A) NPF specific Sptr knockdown can be rescued by BH4 pre-feeding (n = 30). (B) Adult specific Sptr knockdown in NPF still shows increased feeding (n = 30). (C) Pr knockdown in NPF neuron shows normal feeding behavior (n = 27-34). (D) NPF specific Sptr overexpression rescues hyperphagia of Sptr mutant flies (n = 30)
+**a,** Sptr knockdown in fat body does not show increased feeding phenotype (n = 20-29). ** b,** Pan-neuronal Sptr knockdown shows increased feeding (n = 27-28). **c,** Hemolymph specific expression of Pu and pr decreased feeding (n = 30). **d,** NPF specific Sptr knockdown shows increased feeding and it can be rescued by BH4 pre-feeding (n = 30). **e,** Adult specific Sptr knockdown in NPF neurons shows increased feeding (n=30). **f,** pr knockdown in NPF shows normal feeding (n=27-34). **g,** NPF specific Sptr expression rescues hyperphagia of Sptr mutant flies (n = 30).
