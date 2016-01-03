@@ -1,1 +1,3 @@
-Extended Data Figure 3
+Extended Data Figure 3 
+
+a, Fat body specific Sptr knockdown using FB-Gal4 (n = 22-23). b, Eye specific Sptr knockdown using GMR-Gal4 (n = 28-29) (B) (C) Graphical summary of BH4 biosynthesis with salvage pathway (GTP:Guanosine triphosphate; H<sub>2</sub>-NTP: 7,8-dihydroneopterin triphosphate; PTP:6-pyruvoyltetrahydropterin; BH4:6R-L-erythro-5,6,7,8-tetrahydrobiopterin; Sep: Sepiapterin; BH2: 7,8-dihydrobiopterin)
