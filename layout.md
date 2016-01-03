@@ -9,6 +9,7 @@ figures/Fig2 1/Fig2 1.png
 2_r3_sptr_NPF.md
 figures/Fig_3/Fig_3.jpg
 figures/Fig_4/Fig_4.jpg
+figures/Fig3 20151229/Fig3 20151229.png
 2_r4_NPF_release.md
 figures/Fig_5/Fig_5.jpg
 figures/Fig4 20160102ai/Fig4 20160102ai.png
