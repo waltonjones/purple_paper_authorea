@@ -6,6 +6,7 @@ figures/Fig1 20151229/Fig1 20151229.png
 F1 Legend.md
 2_r2_pr_BH4.md
 figures/Fig_2/Fig_2.jpg
+figures/Fig2 20151229/Fig2 20151229.png
 F2 Legend.md
 2_r3_sptr_NPF.md
 figures/Fig_4/Fig_4.jpg
