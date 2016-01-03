@@ -3,17 +3,13 @@
 2_r1_screen-pr.md
 figures/Fig_1/Fig_1.jpg
 figures/Fig1 20151229/Fig1 20151229.png
-Figure_1_Fat_body_specific__.md
-2_r2_pr_BH4.md
 Figure_1_Fat_body_specific__1.md
+2_r2_pr_BH4.md
 figures/Fig_2/Fig_2.jpg
 figures/Fig2 1/Fig2 1.png
-Figure_2_Gene_pr_involves__.md
 2_r3_sptr_NPF.md
-figures/Fig_3/Fig_3.jpg
 figures/Fig_4/Fig_4.jpg
 figures/Fig3 20151229/Fig3 20151229.png
-Fig_3_NPF_specific_Sptr__.md
 2_r4_NPF_release.md
 figures/Fig_5/Fig_5.jpg
 figures/Fig4 20160102ai/Fig4 20160102ai.png
