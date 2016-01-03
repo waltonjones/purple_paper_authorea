@@ -7,8 +7,8 @@ F1 Legend.md
 2_r2_pr_BH4.md
 figures/Fig_2/Fig_2.jpg
 figures/Fig2 1/Fig2 1.png
-2_r3_sptr_NPF.md
 Figure_2_Gene_pr_involves__1.md
+2_r3_sptr_NPF.md
 figures/Fig_4/Fig_4.jpg
 figures/Fig3 20151229/Fig3 20151229.png
 2_r4_NPF_release.md
