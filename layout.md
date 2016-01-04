@@ -31,7 +31,7 @@ figures/FIgS2 20151229/FIgS2 20151229.png
 Extended_Data_Figure_2_.md
 figures/Fig_S3/Fig_S3.jpg
 figures/Fig S3 20151229/Fig S3 20151229.png
-Extended_Data_Figure_3_Sptr__.md
+Extended_Data_Figure_3.md
 figures/Fig_S4/Fig_S4.jpg
 figures/Fig_S5/Fig_S5.jpg
 figures/Fig S5 20151229/Fig S5 20151229.png
