@@ -32,11 +32,11 @@ Extended_Data_Figure_2_.md
 figures/Fig_S3/Fig_S3.jpg
 figures/Fig S3 20151229/Fig S3 20151229.png
 Extended_Data_Figure_3.md
-Extended_Data_Figure_5.md
 figures/Fig_S4/Fig_S4.jpg
 Extended_Data_Figure_4.md
 figures/Fig_S5/Fig_S5.jpg
 figures/Fig S5 20151229/Fig S5 20151229.png
+Extended_Data_Figure_5.md
 figures/Fig_S6/Fig_S6.jpg
 figures/Fig S6 20151229/Fig S6 20151229.png
 figures/FigS7 NPF Nach Intensity/FigS7 NPF Nach Intensity.png
