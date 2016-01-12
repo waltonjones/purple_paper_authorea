@@ -21,7 +21,7 @@ F4 Legend.md
 4_m2_feeding_assays.md
 4_m3_immunostaining.md
 4_m4_qPCR.md
-4_m5_starvation_resistance.md
+4_m5_starvation.md
 4 m6 TAG_assay.md
 4 m7 Respiration.md
 4_m8_statistics.md
