@@ -1,3 +1,0 @@
-**Gene pr involves in appetite behavior through BH4 biosynthesis pathway**
-
-**a,** Graphical summary of BH4 biosynthesis pathway (GTP:Guanosine triphosphate ; H<sub>2</sub>-NTP: 7,8-dihydroneopterin triphosphate; PTP:6-pyruvoyltetrahydropterin; BH4:6R-L-erythro-5,6,7,8-tetrahydrobiopterin). **b,** Rescue of hyperphagia in pr mutants by BH4 pre-feeding (n = 20-40). **c** and **d**: Fat body specific Pu or pr knockdown cause increased feeding, which can be rescued by BH4 (**c**, n = 20-26; **d**, n = 20-25). **e,** Sptr mutant flies show increased feeding compare to controls, which is rescuable by BH4 pre-feeding (n=20-26). **f,** Decreased feeding by fat body specific pr over-expression disappears under Sptr mutant background (n = 27).
