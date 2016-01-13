@@ -1,16 +1,15 @@
 0_abstract.md
 1_introduction.md
-2_r1_screen-pr.md
+2_r1_purple.md
 figures/Fig_1/Fig_1.jpg
-2_r2_pr_BH4.md
+2_r2_bh4.md
 figures/Fig_2/Fig_2.jpg
 figures/Fig2 20151229/Fig2 20151229.png
-F2 Legend.md
-2_r3_sptr_NPF.md
+2_r3_sptr.md
 figures/Fig_4/Fig_4.jpg
 figures/Fig3 20151229/Fig3 20151229.png
 F3 Legend.md
-2_r4_NPF_release.md
+2_r4_npf.md
 figures/Fig_5/Fig_5.jpg
 figures/Fig4 20160102ai/Fig4 20160102ai.png
 F4 Legend.md
