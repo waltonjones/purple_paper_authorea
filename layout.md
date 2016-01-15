@@ -5,8 +5,7 @@ figures/Fig_1/Fig_1.jpg
 2_r2_bh4.md
 figures/Fig_2/Fig_2.jpg
 2_r3_sptr.md
-figures/Fig_4/Fig_4.jpg
-figures/Fig3 20151229/Fig3 20151229.png
+figures/Fig_3/Fig_3.jpg
 F3 Legend.md
 2_r4_npf.md
 figures/Fig_5/Fig_5.jpg
