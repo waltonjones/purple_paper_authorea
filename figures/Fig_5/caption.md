@@ -1,1 +1,1 @@
-Fig
+Schematic

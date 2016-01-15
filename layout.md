@@ -6,11 +6,9 @@ figures/Fig_1/Fig_1.jpg
 figures/Fig_2/Fig_2.jpg
 2_r3_sptr.md
 figures/Fig_3/Fig_3.jpg
-F3 Legend.md
 2_r4_npf.md
-figures/Fig_5/Fig_5.jpg
 figures/Fig4 20160102ai/Fig4 20160102ai.png
-F4 Legend.md
+figures/Fig_5/Fig_5.jpg
 3_discussion.md
 4_m1_fly_stocks.md
 4_m2_feeding_assays.md
