@@ -7,7 +7,7 @@ figures/Fig_2/Fig_2.jpg
 2_r3_sptr.md
 figures/Fig_3/Fig_3.jpg
 2_r4_npf.md
-figures/Fig4 20160102ai/Fig4 20160102ai.png
+figures/Fig_4/Fig_4.jpg
 figures/Fig_5/Fig_5.jpg
 3_discussion.md
 4_m1_fly_stocks.md
@@ -34,5 +34,3 @@ Extended_Data_Figure_5.md
 figures/Fig_S6/Fig_S6.jpg
 figures/Fig S6 20151229/Fig S6 20151229.png
 Extended_Data_Figure_6.md
-figures/FigS7 NPF Nach Intensity/FigS7 NPF Nach Intensity.png
-Extended_Data_Figure_7.md
