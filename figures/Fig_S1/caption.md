@@ -1,3 +1,3 @@
-Extended Data Figure 1 Fat body specific pr knockdown causes hyperphagia. 
+**Fat body specific pr knockdown causes hyperphagia.**
 
 **a,** Increased feeding from adult specific miR-iab-4 overexpression using fat body specific geneswitch driver S1106-Gal4 (n = 11-20). **b,** Increased feeding from fat body specific purple knockdown using r4-Gal4 and pr-IR2 (n = 25-26). **c,** Increased feeding from fat body specific purple knockdown using FB-Gal4 (n=20). d, Eye specific pr knockdown does not show changes in feeding amount (n = 23)
