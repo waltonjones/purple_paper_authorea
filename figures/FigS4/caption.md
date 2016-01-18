@@ -1,3 +1,3 @@
-**Sptr knockdown screening in feeding- and obesity- related tissues**
+Sptr expression in NPF neuron is critical for appetite control 
 
-Sptr knockdown in: **a,** whole body (n = 21). **b,** Dopaminergic neurons (n = 23-25). **c,** Serotonergic neurons (n = 30). **d,** Serotonergic neuron (n = 30). **e,** obesity blocking neuron (n = 25). **f,** insulin producing cells (n = 22-23). **g,** Oenocytes (n = 18-19). **h,** Short neuropeptide F neurons (n = 18-19). **i,** Allatostatin-A neurons (n = 24-25).
+**a,** NPF specific Sptr knockdown (second RNAi line) shows increased feeding and it can be rescued by BH4 pre-feeding (n = 24-30). **b,** NPF specific Sptr knockdown (third RNAi line) shows increased feeding (n = 26-27). **c,** Pu knockdown in NPF neuron shows normal feeding (n=20). **d,** NPF specific Sptr knockdown shows more resistant upon starvation (n = 60). **e,** NPF specific Sptr over-expression decreases feeding (n = 40). **f,** Dhfr knockdown in NPF neuron shows normal feeding (n = 16-20).
