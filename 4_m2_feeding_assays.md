@@ -1,4 +1,4 @@
-### Feeding assays
+## Feeding assays
 
 To assess *ad libitum* feeding in adult flies, we modified the capillary feeder (CAFE) assay described by Ja et al. \cite{Ja_2007}. We transferred two 5-day old male flies to a standard fly vial containing only a wet Kimwipe. We then introduced a calibrated 20 µl capillary filled with 5% sucrose in water between the sponge plug and the side of the vial. We allowed the flies to acclimate for 24 hours before refilling the capillary. Finally, we allowed the flies to feed for 32 hours before measuring total consumption. We controlled for evaporation using identical vials without flies.
 
