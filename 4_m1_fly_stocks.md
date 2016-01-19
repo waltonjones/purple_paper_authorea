@@ -2,7 +2,7 @@
 
 ### Fly stocks
 
-Flies were maintained at either 18ºC or 25ºC and 60% humidity under a 12h:12h light:dark cycle on standard cornmeal-yeast-corn syrup medium (http://flystocks.bio.indiana.edu/Fly_Work/media-recipes/bloomfood.htm). The only modification in our recipe is the addition of XXX of the Tegosept anti-fungal agent.
+Flies were maintained at either 18ºC or 25ºC and 60% humidity under a 12h:12h light:dark cycle on standard cornmeal-yeast-corn syrup medium (http://flystocks.bio.indiana.edu/Fly_Work/media-recipes/bloomfood.htm). The only modification in our recipe is the addition of 2.07 g Tegosept per liter of food as an anti-fungal agent.
 
 The UAS-miRNA stock library was generated in our lab as previously described \cite{Suh_2015}. To generate *UAS-Pu*, *UAS-pr*, *UAS-Sptr*, an ORF sequence amplified via PCR and inserted into the pUASTattB vector. The resulting constructs were micro-injected for site-specific insertion into embryos containing attP landing sites on chromosomes 2L or 3L using standard methods.
 
