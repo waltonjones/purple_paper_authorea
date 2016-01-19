@@ -1,6 +1,6 @@
-## Methods
+# Experimental procedures
 
-### Fly stocks
+## Fly stocks
 
 Flies were maintained at either 18ºC or 25ºC and 60% humidity under a 12h:12h light:dark cycle on standard cornmeal-yeast-corn syrup medium (http://flystocks.bio.indiana.edu/Fly_Work/media-recipes/bloomfood.htm). The only modification in our recipe is the addition of 1.5 g Tegosept per liter of food as an anti-fungal agent.
 

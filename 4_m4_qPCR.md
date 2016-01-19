@@ -1,4 +1,3 @@
-### Quantitative RT--PCR
+## Quantitative RT-PCR
 
-RNA was extracted from heads of 20 adult flies. cDNA was synthesized using the SuperScript III First-Strand Synthesis System (Invitrogen). Real Time PCR was performed using the Bio-Rad CFX96TM Real Time System (Bio-Rad, USA). Rp49 was used as standards. Primers (5' to 3') used were as follows: 
-NPF-F: GATGCCTACAAGTTCCTGCAGG; NPF-R: GTGACGTTGCCATGGTCGT; Rp49-F: ATGACCATCCGCCCAGCATA; Rp49-R: GAGAACGCAGGCGACCGTTG.
+After extracting total RNA from the heads of 20 adult flies per sample using Trizol (Invitrogen, USA), we synthesized cDNAs using the SuperScript III First-Strand Synthesis System (Invitrogen, USA). We then performed qPCR amplification using the XXX premix (XX company, XXX) with a CFX96TM Real Time System (Bio-Rad, USA). We used Rp49 for normalization and quantified NPF expression using XXX software. The primers (5' to 3') were as follows: NPF (GATGCCTACAAGTTCCTGCAGG and GTGACGTTGCCATGGTCGT); Rp49 (ATGACCATCCGCCCAGCATA and GAGAACGCAGGCGACCGTTG).

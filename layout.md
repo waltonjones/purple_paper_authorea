@@ -15,6 +15,8 @@ figures/Fig5/Fig_5.jpg
 4_m3_immunostaining.md
 4_m4_qPCR.md
 4_m5_statistics.md
+5_author_contributions.md
+6_acknowledgements.md
 figures/FigS1/Fig_S1.jpg
 figures/FigS2/Fig_S2.jpg
 figures/FigS3/Fig_S3.jpg
