@@ -1,3 +1,3 @@
-**Fat body specific knockdown of BH4 related genes cause increased feeding and high resistance to starvation.**
+ **BH4 synthesis requires two different locations – fat body and brain - to regulate appetite behavior**
 
-a, Increased feeding from fat body specific Pu knockdown (n = 25). b, and c, Survival rates upon starvation: Fat body specific pr or Pu knockdown shows more resistant upon starvation (b, n = 50, c, n = 60).
+(A) Increased feeding from fat body specific Pu knockdown using another RNAi line Pu-IR2 (n = 25). (B) Fat body specific Sptr knockdown using FB-Gal4 (n = 22-23). (C) Pan-neuronal Sptr knockdown showed increased feeding (n = 23). (D) Eye specific Sptr knockdown shows normal feeding (n = 28-29). 
