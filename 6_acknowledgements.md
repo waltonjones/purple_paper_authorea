@@ -1,3 +1,3 @@
 # Acknowledgements
 
-This work was supported by a grant from the National Research Foundation of the Republic of Korea to W.D.J. (2013R1A1A2011339).
+We thank Young-Joon Kim, the VDRC, and the Bloomington Drosophila Stock Center for fly stocks. This work was supported by a KAIST High-Risk High-Return Project grant (XXXXXXX) and by a National Research Foundation of the Republic of Korea grant to W.D.J. (2013R1A1A2011339).
