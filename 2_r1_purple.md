@@ -1,3 +1,4 @@
+# Results
 
 To identify novel genes in appetite regulation from fat body, we used two-step screening method (Fig. 1a). For primary screening, we performed miRNA-based overexpression screen using fat body specific gene-switch driver S1106-Gal4 crossed to a library of 131 UAS-miRNA lines that generated in our lab \cite{Suh_2015}. For the measurement of changes in appetite behavior, we used modified capillary feeder (CAFE) assay \cite{Ja_2007} with 24hr habituation followed by 32hr measurement (Fig. 1b). From miRNA screening, we found that overexpression of miR-iab-4 in fat body increases ad lib feeding (Fig. 1c, d). Two different fat body specific drivers, S<sub>1</sub>106-Gal4\cite{Roman_2001} and r4-Gal4 \cite{Lee_2004}, both showed increased feeding, which confirm the importance of miR-iab-4 in fat body for appetite regulation (Fig. 1d and Extended Data Fig. 1a).
 
