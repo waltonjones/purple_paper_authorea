@@ -14,7 +14,7 @@ figures/Fig5/Fig_5.jpg
 4_m2_feeding_assays.md
 4_m3_immunostaining.md
 4_m4_qPCR.md
-4_m8_statistics.md
+4_m5_statistics.md
 figures/FigS1/Fig_S1.jpg
 figures/FigS2/Fig_S2.jpg
 figures/FigS3/Fig_S3.jpg
