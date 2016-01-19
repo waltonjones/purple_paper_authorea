@@ -1,3 +1,3 @@
-**NPF specific knockdown of BH4-related genes show normal feeding**
+**Fig S5 NPF specific knockdown of BH4-related genes show normal feeding**
 
-NPF specific knockdown of gene for: **a** and **b,** Nitric oxide synthase (**a,** n =30 ;**b,** n = 27-35). **c** and **d,** Tryptophan hydroxylase (**c,** n = 28; **d,** n = 30). **e** and **f,** pale (Tyrosine hydroxylase) (**e,** n = 20; **f,** n = 30). **g** and **h,** Henna (Phenylalanine Hydroxylase) (**g,** n = 22; **h,** n = 40).
+NPF specific knockdown of gene for: (A) and (B), Nitric oxide synthase (A, n =30 ; B, n = 27-35). (C) and (D), Tryptophan hydroxylase (C, n = 28; D, n = 30). (E) and (F), pale (Tyrosine hydroxylase) (E, n = 20; F, n = 30). (G) and (H), Henna (Phenylalanine Hydroxylase) (G, n = 22; H, n = 40).
