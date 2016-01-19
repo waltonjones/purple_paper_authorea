@@ -1,3 +1,3 @@
 ### Statistics
 
-Boxplots in this study follow the standard style. For the multiple comparisons, we performed a one-way analysis of variance followed by pairwise t-tests using the Bonferroni method to adjust the P value threshold for significance. Regarding the barplots in Fig. 5E, we present the mean ± s.e.m. and make comparisons between groups using the Student's t-test considering _P_<0.05 as statistically significant (*** _p_<0.001, ** _p_<0.01, *_p_<0.05)
+All boxplots in this study follow the standard Tukey style. We performed ANOVA analyses followed by pairwise t-tests, correcting for multiple comparisons with the Bonferroni method, to determine statistical significance. Statistically significant results are designated with asterisks (*** _P_ ≤ 0.001, ** _P_ ≤ 0.01, * _P_ ≤ 0.05). All statistical analysis and figure generation was performed in R \cite{R}.
