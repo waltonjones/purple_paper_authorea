@@ -9,6 +9,7 @@ figures/Fig3/Fig_3.jpg
 2_r4_npf.md
 figures/Fig4/Fig_4.jpg
 figures/Fig5/Fig_5.jpg
+figures/Fig6/Fig_6.jpg
 3_discussion.md
 4_m1_fly_stocks.md
 4_m2_feeding_assays.md
@@ -20,5 +21,4 @@ figures/Fig5/Fig_5.jpg
 figures/FigS1/Fig_S1.jpg
 figures/FigS2/Fig_S2.jpg
 figures/FigS3/Fig_S3.jpg
-figures/FigS5/Fig_S5.jpg
 figures/FigS4/Fig_S4.jpg
