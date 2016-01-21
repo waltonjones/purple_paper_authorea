@@ -4,4 +4,7 @@ To assess *ad libitum* feeding in adult flies, we modified the capillary feeder 
 
 For the experiments using the S<sub>1</sub>106-GAL4 line, we transferred 4-day old males to the vial containing the wet Kimwipe and starved them for 24 hr. We then introduced a capillary containing 0.01 M RU486 (Sigma-Aldrich, South Korea) and 5% sucrose in water for 24 hr. The subsequent CAFE assays were identical to those described above.
 
+For temperature sensitive Gal80 experiments, all flies reared at 18oC until eclosion. Half of the flies kept in 18oC and performed CAFE assay as described above in 18oC.
+The other half of the eclosed flies transferred to 30oC and performed CAFE assay in 30oC.
+
 For experiments involving BH4 treatment, we included either 0.17 or 0.34 mg/ml BH4 (Schircks Laboratories (11.212-5), Switzerland) in the 5% sucrose solution provided during the 24 hr acclimation stage. Then, we replaced the capillary with one containing only 5% sucrose for the feeding measurement. For the immunostaining and qPCR experiments, we fed 5-day old flies for 2 days from capillaries containing 0.34 mg/X BH4 in 5% sucrose. To avoid contamination and any chance that it would lose its effectiveness, we prepared fresh BH4-sucrose solutions every day.
