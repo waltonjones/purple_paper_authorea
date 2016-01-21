@@ -4,7 +4,7 @@
 
 Flies were maintained at either 18ºC or 25ºC and 60% humidity under a 12h:12h light:dark cycle on standard cornmeal-yeast-corn syrup medium (http://flystocks.bio.indiana.edu/Fly_Work/media-recipes/bloomfood.htm). The only modification in our recipe is the addition of 1.5 g Tegosept per liter of food as an anti-fungal agent.
 
-The UAS-miRNA stock library was generated in our lab as previously described \cite{Suh_2015}. To generate *UAS-pr*, *UAS-Sptr*, an ORF sequence amplified via PCR and inserted into the pUASTattB vector\cite{Bischof_2007}. The resulting constructs were micro-injected for site-specific insertion into embryos containing attP landing sites using standard methods.
+The UAS-miRNA stock library was generated in our lab as previously described \cite{Suh_2015}. To generate *UAS-pr*, *UAS-Sptr*, an ORF sequence amplified via PCR and inserted into the pUASTattB vector \cite{Bischof_2007}. The resulting constructs were micro-injected for site-specific insertion into embryos containing attP landing sites using standard methods.
 
 The AstA-GAL4 flies were a generous gift from Young-Joon Kim (GIST, South Korea). The following flies used in this study were previously described: S<sub>1</sub>106-GAL4 \cite{Roman_2001}, FB-GAL4 \cite{Gr_nke_2003}, TH-GAL4 \cite{Friggi_Grelin_2003}, Trh-GAL4 \cite{Alekseyenko_2010}, TPH-GAL4 \cite{Liu_2012}, c673a-GAL4 \cite{Al_Anzi_2009}, Dilp2-GAL4 \cite{Rulifson_2002}, sNPF-GAL4 \cite{Lee_2009}.
 
