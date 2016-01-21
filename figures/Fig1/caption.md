@@ -1,4 +1,4 @@
-**Figure 1. A fat body-specific genetic screen reveals a role for *purple* in feeding behavior**
+**Figure 1. Over-expression of miR-iab-4 in the adult fat body increases feeding**
 
 (A) Flowchart explaining our two-tiered miRNA-based screen for fat body modulators of feeding.
 (B) Schematic of the modified CAFE assay.
