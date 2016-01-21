@@ -1,3 +1,6 @@
-**Fat body specific pr knockdown causes hyperphagia.**
+**BH4 synthesis requires two different locations -- fat body and brain - to regulate appetite behavior**
 
-(A) Increased feeding from fat body specific purple knockdown using r4-Gal4 and another RNAi line , pr-IR2 (n = 25-26). (B) Fat body specific purple knockdown using FB-Gal4 (n=20). (C) Eye specific pr knockdown does not show changes in feeding amount (n = 23)
+(A) Increased feeding from fat body specific Pu knockdown using another RNAi line Pu-IR2 (n = 25).
+(B) Fat body specific Sptr knockdown using FB-Gal4 (n = 22-23).
+(C) Pan-neuronal Sptr knockdown showed increased feeding (n = 23).
+(D) Eye specific Sptr knockdown shows normal feeding (n = 28-29). 

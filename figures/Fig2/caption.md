@@ -1,3 +1,14 @@
-**Gene pr involves in appetite behavior through BH4 biosynthesis pathway**
+**Figure 1. Over-expression of miR-iab-4 in the adult fat body increases feeding**
 
-(A) Graphical summary of BH4 biosynthesis pathway (GTP:Guanosine triphosphate ; H<sub>2</sub>-NTP: 7,8-dihydroneopterin triphosphate; PTP:6-pyruvoyltetrahydropterin; BH4:6R-L-erythro-5,6,7,8-tetrahydrobiopterin). (B) Rescue of hyperphagia in pr mutants by BH4 pre-feeding (n = 20-40). (C) and (D): Fat body specific pr or Pu knockdown cause increased feeding, which can be rescued by BH4 (C, n = 20-26; D, n = 20-25). (E) Sptr mutant flies show increased feeding compare to controls, which is rescuable by BH4 pre-feeding (n=20-26). (F) Decreased feeding by fat body specific pr overexpression disappears under Sptr mutant background (n = 27).
+(A) Flowchart explaining our two-tiered miRNA-based screen for fat body modulators of feeding.
+(B) Schematic of the modified CAFE assay.
+(C) Summary of the primary miRNA over-expression screen. Each dot represents the feeding of the S<sub>1</sub>106-GAL4 line driving the expression of one UAS-miRNA line in the fat body. The feeding fold change versus the heterozygous *S<sub>1</sub>106-GAL4/+* control is plotted against the *P*-value as determined by a Student's t-test. Significance thresholds, both uncorrected and corrected for multiple comparisons (Bonferroni method), are indicated.
+(D and E): Fat body-specific over-expression of miR-iab-4 using the RU486-inducible S<sub>1</sub>106-GAL4 (D, n=11--20) and the r4-GAL4 (E, n=27--37) increases feeding.
+(F) Constitutive fat body-specific knock-down of *pr* with r4-GAL4 (*r4>pr-IR1*) increases feeding (n=25--38). 
+(G) Adult fat body-specific knock-down of *pr* by combining r4-GAL4 with the temperature-sensitive tub-GAL80<sup>ts</sup> increases feeding. Although there is no difference between genotypes at the permissive temperature (18ºC), *GAL80<sup>ts</sup>,r4>pr-IR1* flies transferred to 30ºC post-eclosion eat more than heterozygous controls (n=28--30).
+(H) Two hypomorphic pr mutants, *pr<sup>1</sup>* and *pr<sup>G3141</sup>*, eat more than Canton S and w<sup>1118</sup> controls (n=25--32).
+(I) Over-expression of pr in the fat body reduces feeding in the w<sup>1118</sup> genetic background (above) and rescues the hyperphagia of the *pr<sup>G3141</sup>* mutant background (below) (n=25).
+
+**Fat body specific pr knockdown causes hyperphagia.**
+
+(A) Increased feeding from fat body specific purple knockdown using r4-Gal4 and another RNAi line , pr-IR2 (n = 25-26). (B) Fat body specific purple knockdown using FB-Gal4 (n=20). (C) Eye specific pr knockdown does not show changes in feeding amount (n = 23)
