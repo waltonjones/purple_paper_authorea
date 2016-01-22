@@ -5,6 +5,3 @@ Appetite behavior is critical to maintain energy homeostasis and is tightly regu
 Fat body is core place for energy storage. But it recently found that fat body functions more than just storage. In fruit fly Drosophila, it is actively involved in proper insulin signaling, which is critical for growth and lipid metabolism \cite{G_minard_2009}. It is also required for brain development, fecundity, and lifespan \cite{Sousa_Nunes_2011,Anderson_2010,Nasiri_Moghadam_2015}. In human, adipose tissue releases metabolic hormone leptin, which is critical weight-controlling signal \cite{Ahima_1996,Zeng_2015}.
 
 Emerging multifunction of fat body lead us to investigate functionally unknown genes from Drosophila fat body related to appetite behavior. Drosophila is an excellent model system for studying the molecular mechanisms of appetite regulation that couples a quick development time and a diversity of genetic tools with underlying physiology and organ systems that are similar to humans \cite{Leopold_2007,Simpson_2015}. 
-
-
-
