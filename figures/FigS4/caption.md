@@ -1,3 +1,3 @@
-**Fig S6 NPF specific knockdown of BH4-related genes show normal feeding**
+**Fig S3 NPF specific knockdown of BH4-related genes show normal feeding**
 
-NPF specific knockdown of gene for: (A) and (B), Nitric oxide synthase (A, n =30 ; B, n = 27-35). (C) and (D), Tryptophan hydroxylase (C, n = 28; D, n = 30). (E) and (F), pale (Tyrosine hydroxylase) (E, n = 20; F, n = 30). (G) and (H), Henna (Phenylalanine Hydroxylase) (G, n = 22; H, n = 40).
+(A) NPF specific Sptr knockdown (second RNAi line) shows increased feeding and it can be rescued by BH4 pre-feeding (n = 24-30). (B) NPF specific Sptr knockdown (third RNAi line) shows increased feeding (n = 26-27). (C) Pu knockdown in NPF neuron shows normal feeding (n=20). (D) NPF specific Sptr over-expression decreases feeding (n = 40). 
