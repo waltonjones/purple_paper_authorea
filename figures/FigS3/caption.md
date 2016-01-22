@@ -1,3 +1,6 @@
-**Figure S4. NPF specific knockdown of BH4-related genes show normal feeding.**
+**Figure S3. Manipulation of BH4-related genes in NPF neurons.**
 
-NPF specific knockdown of gene for: (A) and (B), Nitric oxide synthase (A, n =30 ; B, n = 27-35). (C) and (D), Tryptophan hydroxylase (C, n = 28; D, n = 30). (E) and (F), pale (Tyrosine hydroxylase) (E, n = 20; F, n = 30). (G) and (H), Henna (Phenylalanine Hydroxylase) (G, n = 22; H, n = 40).
+(A) NPF neuron-specific knock-down of *Sptr* using a second RNAi line (UAS-Sptr-IR2) induces a hyperphagic phenotype that can be rescued rescued by pre-feeding the flies with 0.17 mg/ml BH4(n=24--30).
+(B) NPF neuron-specific knock-down of *Sptr* with a third RNAi line (UAS-Sptr-IR3) increases feeding (n=26--27).
+(C) NPF neuron-specific knock-down of *Pu* does not affect feeding (n=20).
+(D) NPF neuron-specific over-expression of *Sptr* reduces feeding (n=40).
