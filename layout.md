@@ -20,5 +20,5 @@ figures/Fig6/Fig_6.jpg
 6_acknowledgements.md
 figures/FigS1/Fig_S1.jpg
 figures/FigS2/Fig_S2.jpg
-figures/FigS3/Fig_S3.jpg
 figures/FigS4/Fig_S4.jpg
+figures/FigS3/Fig_S3.jpg
