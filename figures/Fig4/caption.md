@@ -1,3 +1,8 @@
-**Sptr expression in NPF neuron, not in fat body, is required to regulate appetite behavior**
+**Figure 4. Proper appetite regulation depends on Sptr expression in NPF neurons, not the fat body.**
 
-(A) Sptr knockdown in fat body does not show increased feeding phenotype (n = 20-29). (B) Pan-neuronal Sptr knockdown shows increased feeding (n = 27-28). (C) NPF specific Sptr knockdown shows increased feeding and it can be rescued by BH4 pre-feeding (n = 30). (D) Adult specific Sptr knockdown in NPF neurons shows increased feeding (n = 30). (E) pr knockdown in NPF shows normal feeding (n = 27-34). (F) NPF specific Sptr expression rescues hyperphagia of Sptr mutant flies (n = 30).
+(A) Fat body-specific knock-down of *Sptr* using 3 different RNAi lines (gray boxplots) fails to alter feeding compared to heterozygous controls (white boxplots) (n=20--29).
+(B) Pan-neuronal knock-down of *Sptr* increases feeding (n=27--28).
+(C) Knock-down of *Sptr* in NPF neurons increases feeding, and this hyperphagia can be rescued by pre-feeding the flies with 0.17 mg/ml BH4 (n=30).
+(D) Limiting the NPF neuron-specific *Sptr* knock-down (gray boxplots) to the adult stage using a temperature-sensitive GAL80 still increases feeding beyond that of heterozygous controls (white boxplots) (n=30). Importantly, there is no change in feeding at the permissive temperature (18ºC).
+(E) Knock-down of *pr* in NPF neurons has no effect on feeding amount (n=27--34).
+(F) Adult stage NPF neuron-specific *Sptr* over-expression (gray boxplots) rescues hyperphagia of *Sptr<sup>f04272</sup>* mutant flies to the level of a *w<sup>1118</sup>* background control (n=30).

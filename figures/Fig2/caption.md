@@ -1,6 +1,6 @@
 **Figure 2. Purple expression in the fat body is critical for the regulation of feeding amount.**
 
-(A) Constitutive fat body-specific knock-down of *pr* using r4-GAL4 (*r4>pr-IR1*) increases feeding (n=25--38) when compared to heterozygous controls.
+(A) Constitutive fat body-specific knock-down of *pr* using r4-GAL4 (*r4>pr-IR1*, gray boxplots) increases feeding (n=25--38) when compared to heterozygous controls (white boxplots).
 (B) Fat body-specific knock-down of *pr* with a second RNAi line (UAS-pr-IR2) specific to a different part of *pr* also increases feeding (n=25--26).
 (C) Knock-down of *pr* using a different fat body-specific GAL4 line (FB-Gal4) increases feeding (n=20).
 (D) Eye-specific *pr* knock-down with GMR-GAL4 does not alter feeding (n=23).
