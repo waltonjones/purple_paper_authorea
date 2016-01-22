@@ -1,6 +1,6 @@
-**Figure S1. BH4 synthesis requires two different locations -- fat body and brain - to regulate appetite behavior.**
+**Figure S1. With regard to its role in feeding, BH4 synthesis is split between the fat body and the brain.**
 
-(A) Increased feeding from fat body specific Pu knockdown using another RNAi line Pu-IR2 (n = 25).
-(B) Fat body specific Sptr knockdown using FB-Gal4 (n = 22-23).
-(C) Pan-neuronal Sptr knockdown showed increased feeding (n = 23).
-(D) Eye specific Sptr knockdown shows normal feeding (n = 28-29). 
+(A) Fat body-specific knock-down of *Pu* using a second RNAi line (UAS-Pu-IR2) increases feeding (n=25).
+(B) Knock-down of *Sptr* using a second fat body GAL4 line (FB-Gal4) does not affect feeding (n=22--23).
+(C) Pan-neuronal knock-down of *Sptr* using a second RNAi line (UAS-Sptr-IR3) increases feeding (n=23).
+(D) Pan-neuronal knock-down of *pr* does not affect feeding (n=25--26).
