@@ -1,1 +1,1 @@
-A fat body-derived metabolite regulates a peptidergic feeding circuit in Drosophila
+A fat body-derived metabolite regulates a peptidergic feeding circuit in Drosophilas
