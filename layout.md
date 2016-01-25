@@ -5,8 +5,8 @@ figures/Fig1/Fig_1.jpg
 2_r2_purple.md
 figures/Fig2/Fig_2.jpg
 2_r3_bh4.md
-2_r4_sptr.md
 figures/Fig3/Fig_3.jpg
+2_r4_sptr.md
 figures/Fig4/Fig_4.jpg
 2_r5_npf.md
 figures/Fig5/Fig_5.jpg
