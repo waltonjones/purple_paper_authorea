@@ -1,10 +1,19 @@
+Next, we investigated _Sptr_ knockdown on fat body to verify its effect on appetite behavior. 
+To our surprise, we did not observe any increases in feeding from three different Sptr-IR lines (Fig. 4A). 
+We also observed normal feeding behavior from _Sptr_ knockdown using other fat body driver FB-Gal4 (Fig S1B). 
+So, we tried pan-neuronal driver elav-Gal4 because appetite behavior is controlled by neurons after all. 
+Surprisingly, _Sptr_ knockdown in whole neuron showed increased feeding (Fig. 4B and S1C). 
+Since _pr_ knockdown on brain does not show increased feeding (Fig. S1D), we concluded that _pr_ expression and _Sptr_ expression are supposed to happen in two different places as in fat body and in brain for the regulation of appetite behavior. 
+This means intermediate metabolite 6-pyruvoyltetrahydropterin (PTP) suppose to be transfered from fat to brain, possibly through hemolymph. 
 
+After we found that brain is the place where Sptr is critical for appetite regulation, we tested diverse feeding-related locations to pinpoint the target neurons (Fig. S2).
+Among these, we found that _Sptr_ knockdown on NPF expressing neurons shows increased feeding. 
+We tested three UAS-Sptr-RNAi lines and all of them showed hyperphagia (Fig. 4C, and S3A and B). 
+BH4 feeding, similar as the result from fat body, rescued hyperphagia of NPF-Gal4>UAS-Sptr-IR flies (Fig. 4C and S3A). 
+Adult specific _Sptr_ knockdown in NPF neurons also showed increased feeding, suggesting BH4 is important in the adult appetite behavior through NPF neurons (Fig. 4D). 
+However, knockdown of _pr_ or _Pu_ in NPF neurons did not cause any changes in feeding amount (Fig. 4E and S3C), supporting that these are expressed not in NPF but in fat body to control _ad lib_ feeding behavior. 
 
-Next, we investigated _Sptr_ knockdown on fat body to verify its effect on appetite behavior. To our surprise, we did not observe any increases in feeding from three different Sptr-IR lines (Fig. 4A). We also observed normal feeding behavior from _Sptr_ knockdown using other fat body driver FB-Gal4 (Fig S1B). So, we tried pan-neuronal driver elav-Gal4 because appetite behavior is controlled by neurons after all. Surprisingly, _Sptr_ knockdown in whole neuron showed increased feeding (Fig. 4B and S1C). Since _pr_ knockdown on brain does not show increased feeding (Fig. S1D), we concluded that _pr_ expression and _Sptr_ expression are supposed to happen in two different places as in fat body and in brain for the regulation of appetite behavior. This means intermediate metabolite 6-pyruvoyltetrahydropterin (PTP) suppose to be transfered from fat to brain, possibly through hemolymph. 
-
-After we found that brain is the place where Sptr is critical for appetite regulation, we tested diverse feeding-related locations to pinpoint the target neurons (Fig. S2). Among these, we found that _Sptr_ knockdown on NPF expressing neurons shows increased feeding. We tested three UAS-Sptr-RNAi lines and all of them showed hyperphagia (Fig. 4C, and S3A and B). BH4 feeding, similar as the result from fat body, rescued hyperphagia of NPF-Gal4>UAS-Sptr-IR flies (Fig. 4C and S3A). Adult specific _Sptr_ knockdown in NPF neurons also showed increased feeding, suggesting BH4 is important in the adult appetite behavior through NPF neurons (Fig. 4D). However, knockdown of _pr_ or _Pu_ in NPF neurons did not cause any changes in feeding amount (Fig. 4E and S3C), supporting that these are expressed not in NPF but in fat body to control _ad lib_ feeding behavior. 
-
-To further confirm the location of Sptr expression, we expressed _Sptr_ in NPF neurons under the _Sptr_ mutant background.  In permissive temperature (18ºC), all flies having _Sptr_ mutant background ate more than control (Fig. 4F top). However, when we increase temperature (30ºC) and let NPF-Gal4 express Sptr in NPF neurons, hyperphagia was rescued only in test flies and they ate much less than _Sptr_ mutant controls even though they are under _Sptr_ mutant background (Fig. 4F bottom). When we over-express Sptr in NPF in normal genetic background, flies ate less as expected (Fig. S3D).
- 
-
-
+To further confirm the location of Sptr expression, we expressed _Sptr_ in NPF neurons under the _Sptr_ mutant background. 
+In permissive temperature (18ºC), all flies having _Sptr_ mutant background ate more than control (Fig. 4F top). 
+However, when we increase temperature (30ºC) and let NPF-Gal4 express Sptr in NPF neurons, hyperphagia was rescued only in test flies and they ate much less than _Sptr_ mutant controls even though they are under _Sptr_ mutant background (Fig. 4F bottom). 
+When we over-express Sptr in NPF in normal genetic background, flies ate less as expected (Fig. S3D).
