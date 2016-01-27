@@ -1,16 +1,13 @@
-Our data suggests that BH4 in NPF neuron is important to regulate feeding amount. 
-But that does not mean NPF hormone is the target of BH4. 
-NPF, homologous to mammalian NPY, is known to involved in larval feeding and adult sweet taste sensation \cite{Wu_2003, Inagaki_2014}, but its action on adult _ad lib_ feeding has never been tested. 
-To investigate whether NPF signaling is involved in the control of feeding amount, we knockdown NPF gene in NPF neuron and test the changes of appetite behavior. 
-We observed that NPF knockdown shows decreased feeding (Fig. 5A). 
-The result was consistent with the appetite behavior of NPF receptor mutant files (Fig. 5B). 
-To confirm that the involvement of NPF signal in BH4 action, we knockdown _Sptr_ on NPF neuron under _NPFR_ mutant background. 
-When NPF signal is impaired by receptor mutation, _Sptr_ knockdown does not induce hyperphagia, suggesting that BH4 acts on appetite through NPF signaling (Fig. 5C). 
+Finally, we sought to explore the mechanism by which BH4 functions in the NPF neurons to regulate feeding.
+NPF is the closest fly homologue of the mammalian appetite regulator NPY \cite{Brown_1999}.
+Although the role of NPF in feeding has been explored to some extent in *Drosophila* larvae \cite{Wu_2003}, to our knowledge the extent to which NPF loss-of-function affects adult *ad libitum* feeding amount has never been measured. 
+As expected, knock-down of *NPF* in the NPF neurons reduces adult *ad libitum* feeding (Fig. 5A). 
+Consistent with this result, two different homozygous NPF receptor mutants, *NPFR<sup>c01896</sup>* and *NPFR<sup>MI08636</sup>*, eat less than their heterozygous controls (Fig. 5B). If the role of BH4 in the regulation of feeding acts via NPF-NPFR signaling, the increase in feeding caused by loss of *Sptr* in the NPF neurons should be masked by NPFR loss-of-function.
+Indeed, in the *NPFR<sup>c01896</sup>* mutant background, flies whose NPF neurons express the Sptr-IR3 transgene eat the same as heterozygous controls and less than control flies lacking the NPFR mutation (Fig. 5C).
 
-In previous research, BH4 is involved in biochemical reactions to generate nitric oxide (NO), tyrosine, dopamine, serotonin, and ether lipids \cite{Werner_2011, Kim_2015}. 
+In previous research, BH4 is involved in biochemical reactions to generate nitric oxide (NO), tyrosine, dopamine, serotonin \cite{Werner_2011, Kim_2015}. 
 To investigate whether these reactions happen in NPF neurons to regulate appetite behavior, we test knockdown of genes for NO, tyrosine, dopamine, and serotonin synthesis. 
 We did not observe any changes in appetite behavior (Fig. S4). 
-We could not test the possibility of ether lipids because homological gene for enzyme (alkylglycerol mono-oxygenase, AGMO) is not known in _Drosophila_. 
 
 BH4 is known as a cofactor, which helps the reaction. 
 However, our data suggests that high BH4 mimics the less eating phenotype of NPF knockdown. 
