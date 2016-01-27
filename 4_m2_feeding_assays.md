@@ -12,7 +12,7 @@ For the experiments using the S<sub>1</sub>106-GAL4 line, we transferred 4-day o
 We then introduced a capillary containing 0.01 M RU486 (Sigma-Aldrich, South Korea) and 5% sucrose in water for 24 hr. 
 The subsequent CAFE assays were identical to those described above.
 
-For temperature sensitive Gal80 experiments, all flies reared at 18ºC until eclosion. 
+For temperature sensitive GAL80 experiments, all flies reared at 18ºC until eclosion. 
 Half of the flies kept in 18ºC as negative controls and performed CAFE assay as described above in 18ºC.
 The other half of the eclosed flies transferred to 30ºC and performed CAFE assay in 30ºC.
 
