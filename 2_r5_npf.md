@@ -16,6 +16,7 @@ The NPF is being released effectively to up-regulate appetite.
 We next observed that pre-feeding these same flies with high dose BH4 (0.34 mg/ml) dramatically increases NPF staining in the NPF neurons (Fig. 5D-E, below).
 By extracting total head RNA from these same flies and performing a qPCR experiment, it became clear that these changes in NPF staining are not a result of a significant change in NPF gene expression (Fig. 5F). 
 This suggests that BH4 is inhibiting NPF release---either directly or by strongly inhibiting the firing of the NPF neurons. 
+
 To distinguish these two possibilities, we artificially activated the NPF neurons using the bacterial sodium channel NaChBac.
 To eliminate any developmental artifacts caused by constitutive NPF neuron activation, we added the temperature-sensitive GAL80.
 At 18ºC, all genotypes eat similar amounts, more without and less with high dose BH4 pre-feeding (Fig. 5G, above).
