@@ -11,10 +11,10 @@ Knock-down of *Sptr* using the broad dopaminergic (TH-GAL4) and serotonergic (Tr
 We did observe hyperphagia, however, when we combined a GAL4 driver that labels the small group of neurons that express the neuropeptide NPF with each of three different Sptr-IR lines (Fig. 4C, and S3A--B). 
 As expected, this hyperphagia can also be rescued by pre-feeding the flies with a low dose of BH4 (Fig. 4C and S3A). 
 To rule out a developmental explanation for this effect, we limited the knock-down of *Sptr* to adult NPF neurons by adding the ubiquitously expressed temperature-sensitive GAL80.
-As expected, flies at the permissive temperature (18ºC) eat similar amounts (Fig. 4D, above), but when shifted to the restrictive temperature (30ºC), flies whose NPF neurons lack sufficient *Sptr* eat more than heterozygous controls (Fig. 4D, below). 
+As expected, flies at 18ºC eat similar amounts (Fig. 4D, above), but when shifted to 30ºC, flies whose NPF neurons lack sufficient *Sptr* eat more than heterozygous controls (Fig. 4D, below). 
 In support of the physical distribution of the BH4 synthesis pathway as it relates to appetite control, NPF neuron-specific knock-down of neither *pr* (Fig. 4E) nor *Pu* (Fig. S3C) causes any significant change in feeding behavior.
 
 We next asked whether adult NPF-neuron specific over-expression of *Sptr* could rescue the hyperphagia of *Sptr* mutants. 
-At the permissive temperature (18ºC), flies carrying the *Sptr<sup>f04272</sup>* mutation eat more than flies lacking this mutation regardless of their remaining genotype (Fig. 4F, above). 
-When flies are transferred to the restrictive temperature (30ºC) post-eclosion, however, *Sptr<sup>f04272</sup>* mutant flies over-expressing *Sptr* in their NPF neurons eat the same as *w<sup>1118</sup>* controls and much less than their corresponding heterozygous controls (Fig. 4F, below). 
+At 18ºC, flies carrying the *Sptr<sup>f04272</sup>* mutation eat more than flies lacking this mutation regardless of their remaining genotype (Fig. 4F, above). 
+When flies are transferred to 30ºC post-eclosion, however, *Sptr<sup>f04272</sup>* mutant flies over-expressing *Sptr* in their NPF neurons eat the same as *w<sup>1118</sup>* controls and much less than their corresponding heterozygous controls (Fig. 4F, below). 
 Similar over-expression of *Sptr* in the NPF neurons of flies in the *w<sup>1118</sup>* background reduces feeding (Fig. S3D).

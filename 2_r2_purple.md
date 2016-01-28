@@ -13,8 +13,8 @@ Using the eye-specific GMR-GAL4 to knock-down *pr*, we found that the expression
 
 Although r4-GAL4 and FB-GAL4 are expressed in the adult fat body, they are also expressed in the larval fat body making it possible that the effect of *pr* on adult feeding we are observing could originate during development. 
 Thus, we used the ubiquitously expressed temperature-sensitive tub-GAL80<sup>ts</sup>, which blocks the activity of GAL4 except at elevated temperatures, to limit our knock-down of *pr* to the adult fat body. 
-At the permissive temperature (18ºC), the feeding of *tub-GAL80<sup>ts</sup>;r4-GAL4;UAS-pr-IR1* is indistinguishable from the appropriate heterozygous controls. 
-When flies of the same genotype are shifted to the restrictive temperature (30ºC) post-eclosion, GAL80 is inactivated thereby allowing knock-down of *pr*. 
+At 18ºC, the feeding of *tub-GAL80<sup>ts</sup>;r4-GAL4;UAS-pr-IR1* is indistinguishable from the appropriate heterozygous controls. 
+When flies of the same genotype are shifted to 30ºC post-eclosion, GAL80 is inactivated thereby allowing knock-down of *pr*. 
 These flies eat significantly more than heterozygous controls (Fig. 2E). 
 While there is a clear effect of ambient temperature on feeding amount, this result suggests *pr* does play a role in the adult fat body influencing feeding behavior.
 
