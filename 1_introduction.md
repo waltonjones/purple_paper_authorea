@@ -1,16 +1,22 @@
 # Introduction
+Animals must balance food intake with energy expenditure to maintain optimal health.
+In choosing what and how much to eat, animals integrate external cues like tastes and smells with internal motivational states like hunger and satiety.
+Powerful homeostatic mechanisms tie these motivational states to the sensing of nutrient and energy status.
+Since fat is the primary long-term energy storage molecule, these homeostatic sensors monitor fat levels---triggering increased feeding when they fall and decreased feeding when they rise.
+In mammals, adipocytes secrete leptin, which then circulates to the brain to reduce appetite via leptin receptors in key hypothalamic nuclei \cite{Friedman:1998hd}.
+The discovery and cloning of leptin \cite{Zhang:1994jw} and the leptin receptor \cite{Tartaglia:1995wa} were widely expected to essentially solve the problem of obesity.
+Although leptin replacement dramatically reduces leptin-deficient obesity \cite{Farooqi:2002ic}, the results of clinical trials assessing the ability of recombinant leptin to reduce body weight in patients with normal levels of leptin have been underwhelming \cite{Heymsfield:1999dc}.
+This asymmetric action of leptin, seeming primarily to signal fat loss rather than both fat loss and fat gain, is one piece of evidence suggesting the existence of other unknown fat-derived signals that tell the brain when fat stores are large enough to reduce feeding \cite{Ravussin_2014}.
 
-Animals must maintain proper balance between energy intake and expenditure. Appetite behavior is critical to maintain energy homeostasis and is tightly regulated by lots of physiological cues. 
-Environmental cues, such as tastes, smells, and nutritional quality, affect animals to choose which food and how much food should be consumed. 
-Internal cues, for instance hunger, satiety, circadian cycle, developmental stage, and memory, are also crucial for decision-making process to decide how much food should be taken \cite{Trivedi_2014,Itskov_2013}. 
-Energy state - stored fat - is also important cue for animals to mange appetite behavior \cite{Ravussin_2014}. 
-Awareness of energy state is critical for survival because the animal should be prepared for potential starvation but not to be sick from obesity-related diseases. 
+_Drosophila_ are emerging as a powerful model system for studying the molecular mechanisms of metabolism and appetite regulation because they couple rapid development and a wealth of tools for manipulating both the genome and the activity of neural circuits.
+Adult flies regulate food intake according to nutritional status and circadian rhythms like humans do \cite{Edgecomb:1994wg,SarovBlat:2000uc}.
+They also have clear homologues for most of the human genes implicated in metabolic homeostasis and feeding \cite{Leopold_2007}.
+The fat body-derived cytokine Unpaired-2 (Upd2), for example, acts indirectly on the fly insulin-producing cells to increase insulin production and release.
+Incredibly, mis-expression of human leptin rescues the upd2-null mutant phenotype, underscoring the similarity of the two systems \cite{Rajan:2012iq}.
 
-Fat body is core place for energy storage. 
-But it recently found that fat body functions more than just storage. 
-In fruit fly Drosophila, it is actively involved in proper insulin signaling, which is critical for growth and lipid metabolism \cite{G_minard_2009}. 
-It is also required for brain development, fecundity, and lifespan \cite{Sousa_Nunes_2011,Anderson_2010,Nasiri_Moghadam_2015}. 
-In human, adipose tissue releases metabolic hormone leptin, which is critical weight-controlling signal \cite{Ahima_1996,Zeng_2015}.
-
-Emerging multifunction of fat body lead us to investigate functionally unknown genes from Drosophila fat body related to appetite behavior. 
-Drosophila is an excellent model system for studying the molecular mechanisms of appetite regulation that couples a quick development time and a diversity of genetic tools with underlying physiology and organ systems that are similar to humans \cite{Leopold_2007,Simpson_2015}.
+Since there are even aspects of the leptin system that are present in flies, we decided to perform a two-tiered miRNA and RNAi-based genetic screen in _Drosophila_ to identify novel fat-derived regulators of feeding.
+After finding in a primary screen that over-expression of _miR-iab-4_ in the adult fat body enhances feeding, we performed a secondary screen of potential _miR-iab-4_ targets expressed in the fat body.
+In this secondary screen, we found that fat body-specific knock-down of Purple also enhances feeding in adult flies.
+The _purple_ locus encodes an enzyme, which along with Punch and Sptr, functions in the synthesis of the enzymatic co-factor tetrahydrobiopterin (BH4).
+We then confirmed that Punch and Purple both function in the adult fat body to produce an intermediate, PTP, which circulates to the brain for conversion to BH4 by Sptr in neurons producing the feeding-related neuropeptide NPF.
+We show that the increase in feeding caused by loss of Purple in the fat body is due to the loss of BH4 in NPF neurons and that this loss seems to reduce NPF neuron activity, inhibiting their release of NPF.
