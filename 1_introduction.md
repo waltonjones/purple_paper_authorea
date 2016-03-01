@@ -4,12 +4,12 @@ In choosing what and how much to eat, animals integrate external cues like taste
 Powerful homeostatic mechanisms tie these motivational states to the sensing of nutrient and energy status.
 Since fat is the primary long-term energy storage molecule, these homeostatic sensors monitor fat levels---triggering increased feeding when they fall and decreased feeding when they rise.
 In mammals, adipocytes secrete leptin, which then circulates to the brain to reduce appetite via leptin receptors in key hypothalamic nuclei \cite{9796811}.
-The discovery and cloning of leptin \cite{Zhang:1994jw} and the leptin receptor \cite{Tartaglia:1995wa} were widely expected to essentially solve the problem of obesity.
-Although leptin replacement dramatically reduces leptin-deficient obesity \cite{Farooqi:2002ic}, the results of clinical trials assessing the ability of recombinant leptin to reduce body weight in patients with normal levels of leptin have been underwhelming \cite{Heymsfield:1999dc}.
+The discovery and cloning of leptin \cite{Zhang_1994} and the leptin receptor \cite{8548812} were widely hoped to essentially solve the problem of obesity.
+Although leptin replacement dramatically reduces leptin-deficient obesity \cite{12393845}, the results of clinical trials assessing the ability of recombinant leptin to reduce body weight in patients with normal levels of leptin have been underwhelming \cite{10546697}.
 This asymmetric action of leptin, seeming primarily to signal fat loss rather than both fat loss and fat gain, is one piece of evidence suggesting the existence of other unknown fat-derived signals that tell the brain when fat stores are large enough to reduce feeding \cite{Ravussin_2014}.
 
 _Drosophila_ are emerging as a powerful model system for studying the molecular mechanisms of metabolism and appetite regulation because they couple rapid development and a wealth of tools for manipulating both the genome and the activity of neural circuits.
-Adult flies regulate food intake according to nutritional status and circadian rhythms like humans do \cite{Edgecomb:1994wg,SarovBlat:2000uc}.
+Adult flies regulate food intake according to nutritional status and circadian rhythms like humans do \cite{7852903,10892651}.
 They also have clear homologues for most of the human genes implicated in metabolic homeostasis and feeding \cite{Leopold_2007}.
 The fat body-derived cytokine Unpaired-2 (Upd2), for example, acts indirectly on the fly insulin-producing cells to increase insulin production and release.
 Incredibly, mis-expression of human leptin rescues the upd2-null mutant phenotype, underscoring the similarity of the two systems \cite{Rajan:2012iq}.
