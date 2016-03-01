@@ -12,7 +12,7 @@ _Drosophila_ are emerging as a powerful model system for studying the molecular 
 Adult flies regulate food intake according to nutritional status and circadian rhythms like humans do \cite{7852903,10892651}.
 They also have clear homologues for most of the human genes implicated in metabolic homeostasis and feeding \cite{Leopold_2007}.
 The fat body-derived cytokine Unpaired-2 (Upd2), for example, acts indirectly on the fly insulin-producing cells to increase insulin production and release.
-Incredibly, mis-expression of human leptin rescues the upd2-null mutant phenotype, underscoring the similarity of the two systems \cite{Rajan:2012iq}.
+Incredibly, mis-expression of human leptin rescues the upd2-null mutant phenotype, underscoring the similarity of the two systems \cite{23021220}.
 
 Since there are even aspects of the leptin system that are present in flies, we decided to perform a two-tiered miRNA and RNAi-based genetic screen in _Drosophila_ to identify novel fat-derived regulators of feeding.
 After finding in a primary screen that over-expression of _miR-iab-4_ in the adult fat body enhances feeding, we performed a secondary screen of potential _miR-iab-4_ targets expressed in the fat body.
