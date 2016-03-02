@@ -2,7 +2,7 @@
 Animals must balance food intake with energy expenditure to maintain optimal health.
 In choosing what and how much to eat, animals integrate external cues like tastes and smells with internal motivational states like hunger and satiety.
 Powerful homeostatic mechanisms tie these motivational states to the sensing of nutrient and energy status.
-Since fat is the primary long-term energy storage molecule, these homeostatic sensors monitor fat levels---triggering increased feeding when they fall and decreased feeding when they rise.
+Since fat is the primary long-term energy storage molecule, these homeostatic sensors monitor fat levels—triggering increased feeding when they fall and decreased feeding when they rise.
 In mammals, adipocytes secrete leptin, which then circulates to the brain to reduce appetite via leptin receptors in key hypothalamic nuclei \cite{9796811}.
 The discovery and cloning of leptin \cite{Zhang_1994} and the leptin receptor \cite{8548812} were widely hoped to essentially solve the problem of obesity.
 Although leptin replacement dramatically reduces leptin-deficient obesity \cite{12393845}, the results of clinical trials assessing the ability of recombinant leptin to reduce body weight in patients with normal levels of leptin have been underwhelming \cite{10546697}.
