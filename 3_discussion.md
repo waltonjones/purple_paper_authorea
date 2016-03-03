@@ -6,7 +6,7 @@ Thus, the steps in the biosynthesis of the BH4 required for appetite regulation 
 
 Despite Punch and Purple each catalyzing reactions that create small molecule intermediates that could readily circulate through the hemolymph of the open insect circulatory system, there seems to be a strong tissue specificity to their expression patterns.
 The developing eyes are the sites of highest expression of both Punch and Purple where they function in drosopterin eye pigment production rather than BH4 production.
-The _punch_ locus produces at least three transcripts that each show temporal and tissue-specific expression patterns as well as differential regulation by BH4 \cite{Funderburk:2006co}.
+The _punch_ locus produces at least three transcripts that each show temporal and tissue-specific expression patterns as well as differential regulation by BH4 \cite{Funderburk_2006}.
 The _purple_ locus produces two transcripts \cite{8846895}—one is eye-specific for pigment production and the other is more broadly expressed (e.g., in the fat body) for BH4 synthesis \cite{Kim_2013}.
 Again, according to our results, PTP produced in the fat body by the successive action of Punch and Purple seems to circulate for conversion to BH4 by Sptr in the NPF neurons.
 Our results also imply that the PTP produced by Punch and Purple in the eye does not circulate for conversion to BH4 by Sptr in the NPF neurons.
