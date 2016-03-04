@@ -1,4 +1,4 @@
-**Figure S2. Directed screen to localize the role of Sptr in feeding.**
+**Figure S2, related to Figure 4. Directed screen to localize the role of Sptr in feeding.**
 
 (A) Ubiquitous knock-down of *Sptr* using Act5c-GAL4 increases feeding (n=21).
 (B) Knock-down of *Sptr* in most peptidergic neurons using the enhancer trap 386Y-GAL4 increases feeding (n=23--25).
