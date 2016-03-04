@@ -1,3 +1,4 @@
+# Discussion
 This study began with a genetic screen for fat-derived modulators of feeding.
 In this screen, we identified a new function for the enzymatic co-factor BH4 and thus the enzymes required to produce it (i.e., Punch, Purple, and Sptr) in reducing appetite in adult _Drosophila_.
 We found that while appetite regulation requires Punch and Purple expression in the fat body, it requires Sptr expression in the brain.
