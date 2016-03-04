@@ -2,5 +2,5 @@
 
 (A) Flowchart explaining our two-tiered miRNA-based screen for fat body modulators of feeding.
 (B) Schematic of the modified CAFE assay.
-(C) Summary of the primary miRNA over-expression screen. Each dot represents the feeding of the S<sub>1</sub>106-GAL4 line driving the expression of one UAS-miRNA line in the fat body. The feeding fold change versus the heterozygous *S<sub>1</sub>106-GAL4/+* control is plotted against the *P*-value as determined by a Student's t-test. Significance thresholds, both uncorrected and corrected for multiple comparisons (Bonferroni method), are indicated.
+(C) Summary of the primary miRNA over-expression screen. Each dot represents the feeding of the S<sub>1</sub>106-GAL4 line driving the expression of one UAS-miRNA line in the fat body. The feeding fold change versus the heterozygous *S<sub>1</sub>106-GAL4/+* control is plotted against the *P*-value as determined by a Student's t-test. Significance thresholds, both uncorrected and corrected for multiple comparisons (Bonferroni method), are indicated. Complete list of UAS-miR lines, feeding fold changes, and p-values, see Table S1.
 (D and E): Fat body-specific over-expression of *miR-iab-4* using (D) the RU486-inducible *S<sub>1</sub>106-GAL4* (n=11--20) and (E) the constitutive r4-GAL4 (n=27--37), both in gray, increase feeding compared to heterozygous controls (white).
