@@ -1,3 +1,4 @@
+## Sptr is required in adult NPF neurons
 We next asked whether the role of _Sptr_ in appetite regulation is, like that of _Pu_ and _pr_, specific to the fat body.
 To our surprise, we were unable to observe any changes in feeding despite combining three different Sptr-IR lines with the fat body-specific drivers r4-GAL4 (Fig. 4A) or FB-Gal4 (Fig S1B).
 Since feeding behavior is ultimately directed by the brain, we next used the pan-neuronal elav-GAL4 to knock-down _Sptr_ in all post-mitotic neurons.
