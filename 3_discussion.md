@@ -22,7 +22,6 @@ It will be interesting to identify other Sptr-positive neurons and determine whe
 If other Sptr-positive neurons do exist, the inability of the Sptr they produce to compensate for the knock-down of Sptr in the NPF neurons suggests the locations that require BH4 must produce it directly themselves.
 This is either because BH4 does not circulate at all or because it is rapidly degraded when it does.
 We did observe successful rescues with BH4 pre-feeding, but this means only that exogenous BH4 can get into the cells that need it, not that it can get out.
-We hope future experiments will clarify the intricacies of the Sptr expression pattern in the brain and how such a global intervention as feeding the flies BH4 achieves what seems to be such a specific rescue in the NPF neurons.
 
 Once we implicated the NPF neurons, we began to investigate possible mechanisms underlying their role in the BH4-dependent regulation of feeding.
 Through a combination of genetic techniques aimed at altering the firing rate of the NPF neurons we were able to determine that BH4 inhibits the NPF neurons and their release of NPF, but the mechanism by which it does so is still unclear.
