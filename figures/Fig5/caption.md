@@ -6,4 +6,4 @@
 (D) NPF neuron-specific knock-down of *Sptr* reduces the level of NPF accumulation in the NPF neuron cell bodies. Pre-feeding with 0.34 mg/ml BH4 dramatically increases NPF accumulation. Arrowheads indicate NPF cell bodies.
 (E) Boxplots comparing the NPF signal intensities of 12 stained cell bodies from 3 brains for each genotype. All brains were imaged with the same confocal settings.
 (F) NPF gene expression under the same conditions as (D) and (E) as measured by qPCR. Each bar represents the mean ± s.e.m. of 3 technical replicates of each of 3 biological samples consisting of RNA extracted from 20 heads.
-(G) Continuous hyperactivation of adult NPF neurons using the bacterial sodium channel NaChBac induces hyperphagia. This hyperphagia is not rescued by pre-feeding with 0.34 mg/ml BH4 (n=30).
+(G) Continuous hyperactivation of adult NPF neurons using the bacterial sodium channel NaChBac induces hyperphagia. This hyperphagia is not rescued by pre-feeding with 0.34 mg/ml BH4 (n=30). See also Figure S4.
