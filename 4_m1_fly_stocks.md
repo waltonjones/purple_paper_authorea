@@ -1,5 +1,4 @@
-## Methods
-
+## EXPERIMENTAL PROCEDURES
 ### Fly stocks
 
 Flies were maintained at either 18ºC or 25ºC and 60% humidity under a 12h:12h light:dark cycle on standard cornmeal-yeast-corn syrup medium (http://flystocks.bio.indiana.edu/Fly_Work/media-recipes/bloomfood.htm). 
