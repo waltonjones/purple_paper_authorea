@@ -1,5 +1,4 @@
 # Summary
-
 Here we show that the enzymatic co-factor tetrahydrobiopterin (BH4) inhibits feeding in _Drosophila_.
 BH4 biosynthesis requires the sequential action of the conserved enzymes Punch, Purple, and Sepiapterin Reductase (Sptr).
 Although we observe increased feeding upon loss of Punch and Purple in the adult fat body, loss of Sptr must occur in the brain.
