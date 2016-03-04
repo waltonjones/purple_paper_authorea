@@ -1,4 +1,5 @@
-** Supplemental Figures and legends
+**Supplemental Figures and legends**
+
 **Figure S1. With regard to its role in feeding, BH4 synthesis is split between the fat body and the brain.**
 
 (A) Fat body-specific knock-down of *Pu* using a second RNAi line (UAS-Pu-IR2) increases feeding (n=25).
