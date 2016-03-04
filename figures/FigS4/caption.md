@@ -1,4 +1,4 @@
-**Figure S4. NPF neuron-specific knock-down of enzymes known to require BH4 does not affect feeding.**
+**Figure S4, related to Figure 5. NPF neuron-specific knock-down of enzymes known to require BH4 does not affect feeding.**
 
 (A and B) Nitric oxide synthase (A, n=30; B, n=27--35).
 (C and D) Tryptophan hydroxylase (C, n=28; D, n=30).
