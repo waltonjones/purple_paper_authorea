@@ -1,3 +1,4 @@
+## BH4 induces satiety by inhibiting the NPF neurons
 Lastly, we explored the mechanism by which BH4 functions in the NPF neurons to regulate feeding.
 NPF is the closest fly homologue of the mammalian appetite regulator NPY \cite{Brown_1999}.
 Although NPF plays a clear role in extending the foraging phase of larval development \cite{Wu_2003}, to our knowledge the extent to which NPF loss-of-function affects adult _ad libitum_ feeding amount is unknown.
