@@ -1,10 +1,7 @@
-Animals must maintain proper balance between energy intake and expenditure.
-While an animal with access to plenty of food can store energy as fat, proper feedback from the fat to the brain should prevent the intake and storage of so much excess energy that it interferes with survival in the form of obesity.
-Here we describe an unknown function for the enzymatic cofactor tetrahydrobiopterin (BH4) in the regulation of feeding in the vinegar fly, _Drosophila melanogaster_.
-Through a directed genetic screen, we found that the highly conserved enzymes Punch and Purple are required in the adult fat body for the proper regulation of feeding amount.
-Punch and Purple catalyze the first two steps in the metabolic pathway that produces BH4.
-Sepiapterin Reductase (Sptr), another highly conserved enzyme that catalyzes the final step of BH4 synthesis, is required in the brain, not the fat body.
-We were able to localize the need for Sptr in the regulation of feeding to a small population of neurons expressing the neuropeptide NPF, the fly homologue of the vertebrate appetite regulator NPY.
-We show that feeding flies BH4, the final product of this metabolic pathway, rescues all the feeding defects caused by loss-of-function of Punch and Purple in the fat body and of Sptr in the NPF neurons.
-We also show that knock-down of Sptr in the NPF neurons reduces their levels of NPF while feeding flies BH4 dramatically increases NPF accumulation without altering NPF gene expression.
-Thus, BH4, and by extension Punch, Purple, and Sptr, are all required for proper regulation of the NPF neurons and feeding behavior.
+Here we show that the enzymatic co-factor tetrahydrobiopterin (BH4) inhibits feeding in _Drosophila_.
+BH4 biosynthesis requires the sequential action of the conserved enzymes Punch, Purple, and Sepiapterin Reductase (Sptr).
+Although we observe increased feeding upon loss of Punch and Purple in the adult fat body, loss of Sptr must occur in the brain.
+We found Sptr expression is required in four adult brain neurons that express NPF, the fly homologue of the vertebrate appetite regulator NPY.
+As expected, feeding flies BH4 rescues the loss of Punch and Purple in the fat body and the loss of Sptr in NPF neurons.
+Mechanistically, we found that BH4 deficiency reduces NPF levels, while excess BH4 increases NPF accumulation without altering its expression.
+We thus show that because of its physically distributed biosynthesis BH4 acts as a fat-derived signal that induces satiety by inhibiting the activity of the NPF neurons.
