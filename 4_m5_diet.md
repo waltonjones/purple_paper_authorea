@@ -1,2 +1,2 @@
 ## High/low energy food
-Following accepted methods for manipulating dietary nutrient density, we mixed standard food with 30% coconut oil for the high energy food (HEF) condition and we used a 1% sucrose solution for the low energy food (LEF) condition\cite{Birse_2010;Shirazi_2014}.
+Following accepted methods for manipulating dietary nutrient density, we mixed standard food with 30% coconut oil for the high energy food (HEF) condition and we used a 1% sucrose solution for the low energy food (LEF) condition \cite{Birse_2010;Shirazi_2014}.
