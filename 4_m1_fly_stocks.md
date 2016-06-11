@@ -9,7 +9,7 @@ Then, using standard methods, we micro-injected the resulting constructs for sit
 The primers (5' to 3') we used were as follows:
 UAS-Sptr (CAATCATGGACCTGAAACA and CTAGAACTGCTCATCCCT); UAS-pr (TTGAAATGTCGCAGCAA and TGAGCGATGCGTTTG).
 
-The following flies are described elsewhere: S<sub>1</sub>106-GAL4 \cite{Roman_2001}, FB-GAL4 \cite{Gr_nke_2003}, TH-GAL4 \cite{Friggi_Grelin_2003}, Trh-GAL4 \cite{Alekseyenko_2010}, c673a-GAL4 \cite{Al_Anzi_2009}, Dilp2-GAL4 \cite{Rulifson_2002}, sNPF-GAL4 \cite{Lee_2009}, and AstA-GAL4.
+The following flies are described elsewhere: S<sub>1</sub>106-GAL4 \cite{Roman_2001}, FB-GAL4 \cite{Gr_nke_2003}, TH-GAL4 \cite{Friggi_Grelin_2003}, Trh-GAL4 \cite{Alekseyenko_2010}, c673a-GAL4 \cite{Al_Anzi_2009}, Dilp2-GAL4 \cite{Rulifson_2002}, sNPF-GAL4 \cite{Lee_2009}, and AstA-GAL4 \cite{26948873}.
 
 We obtained the following fly stocks (stock number) from the Bloomington Stock Center: Canton-S (1), w<sup>1118</sup> (5905), pr<sup>1</sup> (370), pr<sup>G3141</sup> (27097), r4-GAL4 (33832), tubP-GAL80<sup>ts</sup> (7018, 7019), Sptr<sup>f04272</sup> (18753), elav-GAL4 (8760), 386Y-GAL4 (25410), GMR-GAL4 (1104), NPF-GAL4 (25681), Act5C-GAL4 (4414), OK72-GAL4 (6486), NPFR<sup>MI08636</sup> (52133), NPFR<sup>c01896</sup> (10747), UAS-NaChBac (9466), UAS-Pu-IR1 (41998), UAS-pr-IR2 (53346), UAS-Sptr-IR1 (28968), UAS-Sptr-IR2 (43277), UAS-NPF-IR1 (27237), UAS-Nos-IR2 (28792), UAS-Trh-IR2 (25842), UAS-ple-IR2 (25796), UAS-Hn-IR2 (29540).
 
