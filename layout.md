@@ -18,7 +18,7 @@ figures/Fig7/Fig_7.jpg
 4_m3_immunostaining.md
 4_m4_qPCR.md
 4_m5_diet.md
-4_m6_statistics.md
+4_m7_statistics.md
 5_author_contributions.md
 6_acknowledgements.md
 figures/FigS1/Fig_S1.jpg
