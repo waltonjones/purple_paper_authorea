@@ -1,0 +1,2 @@
+## Starvation resistance
+We measured starvation resistance using the standard technique \cite{S_derberg_2012a} with the following minor modifications: we placed two adult male flies (age 6-8 days) in a standard ﬂy vial containing only a wet Kimwipes (Kimtech Science), which provided water.
